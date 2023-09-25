@@ -1,0 +1,2 @@
+miniwdl run Reads_NGSEP_workflow.wdl barcodeMap=/home/erick/Documentos/BIOINFORMATICA/CROMWELL/NGSEP/Curso_GBS_unal_2023/Curso_GBS_unal_2023/DemoNGSEP/GBSDemo/lanesPairedEnd/barcodeMap_dual.txt rawdataPaths=/home/erick/Documentos/BIOINFORMATICA/CROMWELL/NGSEP/Curso_GBS_unal_2023/Curso_GBS_unal_2023/DemoNGSEP/GBSDemo/lanesPairedEnd/rawdataPaths --cfg miniwdl.cfg --verbose
+
